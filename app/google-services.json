@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056248381104",
+    "firebase_url": "https://wifiscan-204b4.firebaseio.com",
+    "project_id": "wifiscan-204b4",
+    "storage_bucket": "wifiscan-204b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056248381104:android:62561a3c856d17a723c575",
+        "android_client_info": {
+          "package_name": "com.example.wifiscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056248381104-sti7datno09oq3fp54gf7o8ppl3t8ak9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtHSKCXqkwTZmSj3U1JegJvaQad6M1_rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056248381104-sti7datno09oq3fp54gf7o8ppl3t8ak9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
